@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About me
 
-I'm **David Katalinic** (aka. *xXSwainXx*), a web developer from **Salzburg, Austria**. I turn complex ideas into clear, beautiful and blazing-fast digital experiences – **design meets engineering**.
+I'm **David Katalinic** (aka. *DavoZmaj*), a web developer from **Salzburg, Austria**. I turn complex ideas into clear, beautiful and blazing-fast digital experiences – **design meets engineering**.
 
 - 🚀 **Senior Web Developer** since 2020 – focused on **Next.js, React & TypeScript**
 - 🎨 Started out in **web & brand design** (2016) and **PHP development** (2018)
