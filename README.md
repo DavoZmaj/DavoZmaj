@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7c5cff,55:22d3ee,100:f472b6&text=Hi,%20ich%20bin%20David%20👋&fontColor=ededf2&fontSize=46&fontAlignY=36&desc=Web%20Developer%20·%20Salzburg,%20Austria&descAlignY=58&descSize=18" alt="Hi, ich bin David" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7c5cff,55:22d3ee,100:f472b6&text=Hi,%20I%27m%20David%20👋&fontColor=ededf2&fontSize=46&fontAlignY=36&desc=Web%20Developer%20·%20Salzburg,%20Austria&descAlignY=58&descSize=18" alt="Hi, I'm David" width="100%" />
 
 <a href="https://katalinic.dev">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=I+build+modern+web+apps;Next.js+%C2%B7+React+%C2%B7+TypeScript;Design+meets+engineering." alt="Typing SVG" />
@@ -8,25 +8,25 @@
 
 <p>
   <a href="https://katalinic.dev"><img src="https://img.shields.io/badge/katalinic.dev-07070b?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Website" /></a>
-  <a href="mailto:mail@plantaria.info"><img src="https://img.shields.io/badge/E--Mail-07070b?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="E-Mail" /></a>
+  <a href="mailto:mail@plantaria.info"><img src="https://img.shields.io/badge/Email-07070b?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="Email" /></a>
   <a href="https://www.instagram.com/davekatalinic"><img src="https://img.shields.io/badge/Instagram-07070b?style=for-the-badge&logo=instagram&logoColor=f472b6" alt="Instagram" /></a>
 </p>
 
-<img src="https://img.shields.io/badge/●_Verfügbar_für_neue_Projekte-07070b?style=flat-square&logoColor=white&labelColor=07070b&color=1f1f2b" alt="Verfügbar für neue Projekte" />
+<img src="https://img.shields.io/badge/●_Available_for_new_projects-07070b?style=flat-square&logoColor=white&labelColor=07070b&color=1f1f2b" alt="Available for new projects" />
 
 </div>
 
 ---
 
-### 🧑‍💻 Über mich
+### 🧑‍💻 About me
 
-Ich bin **David Katalinic** (aka. *xXSwainXx*), Web Developer aus **Salzburg, Österreich**. Ich verwandle komplexe Ideen in klare, schöne und blitzschnelle digitale Erlebnisse – **Design meets Engineering**.
+I'm **David Katalinic** (aka. *xXSwainXx*), a web developer from **Salzburg, Austria**. I turn complex ideas into clear, beautiful and blazing-fast digital experiences – **design meets engineering**.
 
-- 🚀 **Senior Web Developer** seit 2020 – Fokus auf **Next.js, React & TypeScript**
-- 🎨 Ursprünglich aus dem **Web- & Brand-Design** (2016) und der **PHP-Entwicklung** (2018) gekommen
-- ⚡ Leidenschaft für saubere Architektur, Performance und durchdachte User Experiences
-- 🤝 Vertraut von **[Plantaria](https://plantaria.net)** und **[Twerion](https://www.twerion.net)**
-- 🌍 Meine Website gibt's in 🇩🇪 🇬🇧 🇭🇷 🇮🇹 🇷🇸 🇸🇮 → **[katalinic.dev](https://katalinic.dev)**
+- 🚀 **Senior Web Developer** since 2020 – focused on **Next.js, React & TypeScript**
+- 🎨 Started out in **web & brand design** (2016) and **PHP development** (2018)
+- ⚡ Passionate about clean architecture, performance and thoughtful user experiences
+- 🤝 Trusted by **[Plantaria](https://plantaria.net)** and **[Twerion](https://www.twerion.net)**
+- 🌍 My website speaks 🇩🇪 🇬🇧 🇭🇷 🇮🇹 🇷🇸 🇸🇮 → **[katalinic.dev](https://katalinic.dev)**
 
 ---
 
@@ -48,7 +48,7 @@ Ich bin **David Katalinic** (aka. *xXSwainXx*), Web Developer aus **Salzburg, Ö
 
 **🎨 Frontend**
 - **Next.js & React** – App Router, SSR/SSG, Performance
-- **TypeScript** – typsichere, wartbare Codebases
+- **TypeScript** – type-safe, maintainable codebases
 - **Styling** – Tailwind CSS, SCSS, Responsive Design
 - **State** – Zustand, React Query, Context API
 
@@ -56,10 +56,10 @@ Ich bin **David Katalinic** (aka. *xXSwainXx*), Web Developer aus **Salzburg, Ö
 <td valign="top" width="50%">
 
 **⚙️ Backend & DevOps**
-- **Node.js** – APIs, Middleware, Authentifizierung
-- **PHP & MySQL** – robuste Backends & dynamische Seiten
-- **Docker & Redis** – Container, Caching, Real-time
-- **Git** – CI/CD, saubere Workflows
+- **Node.js** – APIs, middleware, authentication
+- **PHP & MySQL** – robust backends & dynamic sites
+- **Docker & Redis** – containers, caching, real-time
+- **Git** – CI/CD, clean workflows
 
 </td>
 </tr>
@@ -67,15 +67,15 @@ Ich bin **David Katalinic** (aka. *xXSwainXx*), Web Developer aus **Salzburg, Ö
 
 ---
 
-### 🌟 Ausgewählte Projekte
+### 🌟 Selected work
 
-| Projekt | Bereich | Link |
+| Project | Area | Link |
 | :-- | :-- | :-- |
 | 🌱 **Plantaria** | Web Development | [plantaria.net](https://plantaria.net) |
 | 🧩 **Plantaria Panel** | Web Development | – |
 | 💬 **Twerion Forum** | Web Design | [forum.twerion.net](https://forum.twerion.net) |
 | 🎮 **Twerion Website** | Web Development | [twerion.net](https://www.twerion.net) |
-| 🪐 **katalinic.dev** | Portfolio & Partnerprogramm | [katalinic.dev](https://katalinic.dev) |
+| 🪐 **katalinic.dev** | Portfolio & partner program | [katalinic.dev](https://katalinic.dev) |
 
 ---
 
@@ -94,9 +94,9 @@ Ich bin **David Katalinic** (aka. *xXSwainXx*), Web Developer aus **Salzburg, Ö
 
 <div align="center">
 
-**Du hast ein Projekt im Kopf? Lass uns gemeinsam starten.**
+**Got a project in mind? Let's start together.**
 
-<a href="https://katalinic.dev/#partner"><img src="https://img.shields.io/badge/Partner_werden_→-7c5cff?style=for-the-badge" alt="Partner werden" /></a>
+<a href="https://katalinic.dev/#partner"><img src="https://img.shields.io/badge/Become_a_partner_→-7c5cff?style=for-the-badge" alt="Become a partner" /></a>
 <a href="mailto:mail@plantaria.info"><img src="https://img.shields.io/badge/Let's_talk-22d3ee?style=for-the-badge&logoColor=07070b" alt="Let's talk" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c5cff,55:22d3ee,100:f472b6" width="100%" />
